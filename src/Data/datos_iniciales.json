@@ -1,0 +1,114 @@
+{
+  "datosMovie": [
+    {
+      "id": 1,
+      "nombre": "John Wick 4",
+      "categoria": "Acción",
+      "img": "https://cdnb.artstation.com/p/assets/images/images/051/929/637/large/rahal-nejraoui-john-wick-4-poster-concept-by-rahalarts.jpg?1658510374",
+      "linkYT": "https://www.youtube.com/watch?v=L0anWmmd8TI"
+    },
+    {
+      "id": 2,
+      "nombre": "Asesino sin memoria",
+      "categoria": "Acción",
+      "img": "https://diamondfilms.com/img/poster/624d94ed63914d4d85783d28b.jpg",
+      "linkYT": "https://www.youtube.com/watch?v=ZJz5dwlH5kE"
+    },
+    {
+      "id": 3,
+      "nombre": "Sin novedad en el frente",
+      "categoria": "Acción",
+      "img": "https://www.lahiguera.net/cinemania/pelicula/10434/sin_novedad_en_el_frente-cartel-10699.jpg",
+      "linkYT": "https://www.youtube.com/watch?v=EBk1lXQ7rcY"
+    },
+    {
+      "id": 4,
+      "nombre": "El hombre del norte",
+      "categoria": "Acción",
+      "img": "https://palomaynacho-1f321.kxcdn.com/wp-content/uploads/2022/04/el-hombre-del-norte-poster-1.jpg",
+      "linkYT": "https://www.youtube.com/watch?v=7HZ4tBQEiB0"
+    },
+    {
+      "id": 5,
+      "nombre": "Top Gun: Maverick",
+      "categoria": "Acción",
+      "img": "https://muchocine.net/wp-content/uploads/top_gun_maverick_ver3.jpg",
+      "linkYT": "https://www.youtube.com/watch?v=zzBIzYmxatU"
+    },
+    {
+      "id": 6,
+      "nombre": "No se aceptan devoluciones",
+      "categoria": "Comedia",
+      "img": "https://es.web.img2.acsta.net/pictures/14/02/18/16/51/000179.jpg",
+      "linkYT": "https://www.youtube.com/watch?v=yTvyNBtrOY4"
+    },
+    {
+      "id": 7,
+      "nombre": "Ted",
+      "categoria": "Comedia",
+      "img": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_.jpg",
+      "linkYT": "https://www.youtube.com/watch?v=_0RXbJtBk68"
+    },
+    {
+      "id": 8,
+      "nombre": "La otra Missy",
+      "categoria": "Comedia",
+      "img": "https://image.tmdb.org/t/p/w500/5MQScaFf8Uu8Hj9omCQju4KsWAA.jpg",
+      "linkYT": "https://www.youtube.com/watch?v=USyMyS5JDT4"
+    },
+    {
+      "id": 9,
+      "nombre": "Norbit ",
+      "categoria": "Comedia",
+      "img": "https://musicart.xboxlive.com/7/90d45000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "linkYT": "https://www.youtube.com/watch?v=HFIdZpc2L6w"
+    },
+    {
+      "id": 11,
+      "nombre": "Avatar 2",
+      "categoria": "Ciencia ficción",
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSX0NNA56fZmz4v50L5HENXgm93TevQ59iLczKYc-rRXZiA9ImM",
+      "linkYT": "https://www.youtube.com/watch?v=u0hxjdWG84k&t=16s"
+    },
+    {
+      "nombre": "Siempre a tu lado Hachiko",
+      "categoria": "Drama",
+      "img": "https://www.ecartelera.com/carteles/3500/3526/001_m.jpg",
+      "linkYT": "https://www.youtube.com/watch?v=jrVVIaO_hTg",
+      "id": 12
+    },
+    {
+      "nombre": "La razón de estar contigo",
+      "categoria": "Drama",
+      "img": "https://pbs.twimg.com/media/DyjuFmAX4AAh2kN?format=jpg&name=4096x4096",
+      "linkYT": "https://youtu.be/LRfnEQpBLVk?si=wZpH_1Yx4AJN81ax",
+      "id": 13
+    }
+  ],
+  "datosCategoria": [
+    {
+      "id": 4,
+      "titulo": "Drama",
+      "descripcion": "Películas de Drama",
+      "colorCategoria": "#5a5544"
+    },
+    {
+      "id": 7,
+      "titulo": "Acción",
+      "descripcion": "Películas de Acción",
+      "colorCategoria": "#cc2e2e"
+    },
+    {
+      "id": 8,
+      "titulo": "Ciencia ficción",
+      "descripcion": "Películas de Ciencia ficción",
+      "colorCategoria": "#2f7f2e"
+    },
+    {
+      "titulo": "Comedia",
+      "colorCategoria": "#36a7b0",
+      "descripcion": "Películas de Comedia",
+      "id": 9
+    }
+  ]
+}
