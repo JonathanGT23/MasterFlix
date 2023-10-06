@@ -13,16 +13,34 @@ const StyleFooter = styled.footer`
     border-top: 3px solid var(--color-tercero);
     margin-top: auto;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    gap: 1rem;
+    @media screen and (max-width: 540px){
+      
+      flex-direction: column;
+      gap: 1rem;
+
+      .containerLogo{
+        order: 1;
+      }
+      .containerLink{
+        order: 2;
+      }
+
+      .containerInfo{
+        order: 3;
+      }
+    }
 
 
 
-.containerLink{
-  display: flex;
-  justify-content: flex-start;
-gap: 1rem;
-}
+
+  .containerLink{
+    display: flex;
+    justify-content: flex-start;
+  gap: 1rem;
+  }
 
 
 .containerInfo{
@@ -31,6 +49,7 @@ gap: 1rem;
   flex-direction: column;
   align-items: center;
   font-size: 1.2rem;
+  gap: 1rem;
   span{
     color: var(--color-tercero);
   }
@@ -40,6 +59,7 @@ gap: 1rem;
 .containerLogo{
   display: flex;
   justify-content: center;
+ 
 }
 
 
